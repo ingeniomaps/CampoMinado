@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+
+#minas{
+	margin:  0 auto;
+	width: 80%;
+}
+
+#sector{
+	background-image: url("./interrogacion.png") ;
+	background-size: 100% 100%;
+	border: 0.1rem solid #000;
+	cursor: pointer;
+	display: inline-block;
+	margin : 0.5rem;
+	padding: 2rem;
+}
